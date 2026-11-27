@@ -1,7 +1,6 @@
 {
   "functions": {
-    "api/meki.js": {
-      "maxDuration": 30
-    }
+    "api/meki.js": { "maxDuration": 30 },
+    "api/meki-dl.js": { "maxDuration": 30 }
   }
 }
