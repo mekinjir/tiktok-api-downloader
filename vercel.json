@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/tiktok.js": {
+    "api/meki.js": {
       "maxDuration": 30
     }
   }
